@@ -1,0 +1,30 @@
+{
+  "Primarybids": [
+    
+  ],
+  "MCP": [
+    {
+      "SlotNumber": 40,
+      "MCP": 37,
+      "MP": 597,
+      "Bus1": 300,
+      "Bus2": 297,
+      "Bus3": 97,
+      "Bus4": 350,
+      "Bus5": 150,
+      "id": "84c7"
+    },
+    {
+      "SlotNumber": 41,
+      "MCP": 35,
+      "MP": 698,
+      "Bus1": 300,
+      "Bus2": 398,
+      "Bus3": 98,
+      "Bus4": 350,
+      "Bus5": 250,
+      "id": "4dd9"
+    }
+  ],
+  "Secondarybids": []
+}
